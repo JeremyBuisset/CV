@@ -1,8 +1,8 @@
 #cv{
-    text-align: center;
+
     background: lightblue;
     width: 100%;
-    height: 1200px;
+    height: 1600px;
     color:white;
 }
 
@@ -11,6 +11,7 @@
     width: 100%;
     height: 20%;
     border-bottom: solid 2px white;
+    text-align: center;
 
 }
 
@@ -64,4 +65,60 @@
     margin-top: 0;
     font-weight: bolder;
 }
+
+#exp{
+    display: inline-block;
+    margin-top: 0;
+    background: url("Images/Code.png");
+    position:relative;
+    horiz-align: left;
+    width: 30%;
+    height: 79.8%;
+
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 25px;
+    text-align: left;
+    padding-top: 1%;
+    margin-left:5%;
+    text-decoration: underline dodgerblue;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    margin-top: 20px;
+
+}
+
+li,ul{
+    text-align: left;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+
+
+}
+
+ul{
+    padding-left: 20%;
+
+}
+
+li{
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.desc{
+    list-style-type: none;
+}
+
+#middle{
+    display: inline-block;
+    vertical-align: top;
+    width:50%;
+}
+
 
