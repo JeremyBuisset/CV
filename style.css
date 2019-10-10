@@ -64,6 +64,8 @@
     line-height: 150%;
     margin-top: 0;
     font-weight: bolder;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 #exp{
@@ -74,6 +76,7 @@
     horiz-align: left;
     width: 30%;
     height: 79.8%;
+    border-right: solid 2px white;
 
 }
 h1{
